@@ -1,0 +1,5 @@
+Una variable es un contenedor donde puedo guardar datos como números, texto, caracteres o valores booleanos.
+Un string es un conjunto de 1 o más caracteres.
+Una función es un proceso que recibe argumentos (datos de entrada) y devuelve un resultado (datos de salida).
+Las declaraciones if son instrucciones especiales donde el programa verifica si se cumple una condición y actúa acorde al resultado.
+Los valores booleanos true y false sirven para representar verdadero o falso, se usan en las declaraciones if. 
